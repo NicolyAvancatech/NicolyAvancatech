@@ -1,6 +1,6 @@
-### Nicoly
-
 <div align="center">
+
+### Nicoly
 
 ### ✨ Sou estudante de Programação!
 
@@ -11,7 +11,7 @@ aprendendo, explorando e desenvolvendo novas habilidades.
 
 ---
 
-## 💜 Sobre mim
+## Sobre mim
 
 - 🎓 Sou estudante de programação.
 - 💻 Estou aprendendo a desenvolver projetos.
