@@ -2,9 +2,9 @@
 
 ### Nicoly
 
-### ✨ Sou estudante de Programação!
+### Sou estudante de Programação!
 
-🚀 Estou iniciando minha jornada no mundo da programação,
+Estou iniciando minha jornada no mundo da programação,
 aprendendo, explorando e desenvolvendo novas habilidades.
 
 </div>
@@ -13,6 +13,6 @@ aprendendo, explorando e desenvolvendo novas habilidades.
 
 ## Sobre mim
 
-- 🎓 Sou estudante de programação.
-- 💻 Estou aprendendo a desenvolver projetos.
-- 🚀 Gosto de tecnologia e inovação.
+- Sou estudante de programação.
+- Estou aprendendo a desenvolver projetos.
+- Gosto de tecnologia e inovação.
