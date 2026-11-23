@@ -2,15 +2,15 @@
 
 </div>
 
-Estou iniciando minha jornada no mundo da programação,
+𝓔stou iniciando minha jornada no mundo da programação,
 aprendendo, explorando e desenvolvendo novas habilidades.
 
 </div>
 
 ---
 
-## Sobre mim
+## 𝓢obre mim
 
-- Sou estudante de programação.
-- Estou aprendendo a desenvolver projetos.
-- Gosto de tecnologia e inovação.
+- 𝓢ou estudante de programação.
+- 𝓔stou aprendendo a desenvolver projetos.
+- 𝓖osto de tecnologia e inovação.
