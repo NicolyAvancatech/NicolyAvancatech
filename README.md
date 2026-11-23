@@ -1,49 +1,40 @@
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1B1522&height=8"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:392D46,50:715B8A,100:A6A1C1&height=170&section=header&text=Nicoly&fontSize=55&fontColor=F1EDF4&fontAlignY=40&animation=fadeIn"/>
+# 𝓝𝓲𝓬𝓸𝓵𝔂
 
-### ୨୧  Sou estudante de Programação!  ୨୧
+### 𓆩♡𓆪  Sou estudante de Programação! 𓆩♡𓆪
 
-*Aprendendo, explorando e criando meu próprio caminho no mundo da tecnologia.*
+*Entre códigos, sonhos e descobertas, construindo meu próprio caminho.*
 
-<img src="https://img.shields.io/badge/Student-715B8A?style=for-the-badge&labelColor=392D46"/>
-<img src="https://img.shields.io/badge/Programming-D9B8C9?style=for-the-badge&labelColor=715B8A"/>
+<img src="https://img.shields.io/badge/Programming-715B8A?style=flat-square&labelColor=241B2B&color=8C78A5"/>
+<img src="https://img.shields.io/badge/Student-D9B8C9?style=flat-square&labelColor=241B2B&color=D9B8C9"/>
 
-</div>
+<img width="75%" src="https://capsule-render.vercel.app/api?type=rect&color=715B8A&height=2"/>
 
----
-
-<div align="center">
-
-## ♡ Sobre mim ♡
+### ୨୧  Sobre mim ୨୧
 
 </div>
-
-<div align="center">
 
 Sou estudante de programação e estou iniciando minha jornada no mundo da tecnologia.
 
-Estou aprendendo a desenvolver projetos, explorando novas possibilidades e aprimorando minhas habilidades a cada dia.
-
-</div>
+Entre aprendizados e novas descobertas, busco desenvolver minhas habilidades, explorar possibilidades e transformar minhas ideias em projetos.
 
 <div align="center">
 
-୨୧ ─────────────── ୨୧
+✦ ─────── ⋆☽⋆ ─────── ✦
 
-✦ Sou estudante de programação.
+**♡ Um pouco sobre mim ♡**
 
-✦ Estou aprendendo a desenvolver projetos.
+🦇 Sou estudante de programação.
 
-✦ Gosto de tecnologia e inovação.
+🕯️ Estou aprendendo a desenvolver projetos.
 
-୨୧ ─────────────── ୨୧
+🥀 Gosto de tecnologia e inovação.
 
-</div>
+✦ ─────── ⋆☽⋆ ─────── ✦
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:392D46,50:715B8A,100:A6A1C1&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1522,50:493855,100:88759C&height=100&section=footer"/>
 
 </div>
