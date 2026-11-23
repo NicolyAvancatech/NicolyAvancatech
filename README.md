@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=4000&pause=1000&color=715B8A&center=true&vCenter=true&width=650&lines=Estou+iniciando+minha+jornada+no+mundo+da+programa%C3%A7%C3%A3o%2C;aprendendo%2C+explorando+e+desenvolvendo+novas+habilidades."/>
 </div>
 
-
 ---
 
 ## 𝓢obre mim
