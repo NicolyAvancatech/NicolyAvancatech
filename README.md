@@ -9,6 +9,22 @@
 
 ## 𝓢obre mim
 
-- 𝓢ou estudante de programação.
-- 𝓔stou aprendendo a desenvolver projetos.
-- 𝓖osto de tecnologia e inovação.
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/✦-715B8A?style=flat-square"/>
+  <span>𝓢ou estudante de programação.</span>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/✦-715B8A?style=flat-square"/>
+  <span>𝓔stou aprendendo a desenvolver projetos.</span>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/✦-715B8A?style=flat-square"/>
+  <span>𝓖osto de tecnologia e inovação.</span>
+</p>
+
+</div>
