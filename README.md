@@ -4,8 +4,6 @@
 
 </div>
 
-### Sou estudante de Programação!
-
 Estou iniciando minha jornada no mundo da programação,
 aprendendo, explorando e desenvolvendo novas habilidades.
 
